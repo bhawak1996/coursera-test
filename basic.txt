@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>First Heading</h1>
+<p>My first paragraph.</p>
+<a href="http://www.google.com">Go To Google</a>
+</BR>
+<img src="mypressingproblem.png" width="125" height="100">
+</BR>
+<button>Problem</button>
+<ol>
+<li>Academics</li>
+<li>Love</li>
+<li>Family</li>
+</ol>
+</BR>
+</body>
+</html>
